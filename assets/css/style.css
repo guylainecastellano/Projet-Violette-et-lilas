@@ -4,6 +4,9 @@ header{
   background-position: center;
   height: 256px;
 }
+.colorHeader{
+  background-color:  #F4EFE5;
+}
 #présentation{
   background-color: #EFDEE0;
   text-align:center;
