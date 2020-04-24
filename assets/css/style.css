@@ -7,11 +7,14 @@ header{
 #présentation{
   background-color: #EFDEE0;
   text-align:center;
-
+  padding: 0.5em 2em 0.5em 2em;
+  margin: 1em;
 }
-{
+#titleText{
   font-family: 'Delius Swash Caps', cursive;
+  color: #946E83;
 }
-{
-    font-family: 'Delius', cursive;
+p{
+  font-family: 'Delius', cursive;
+  color: #946E83;
 }
